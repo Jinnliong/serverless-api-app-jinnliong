@@ -1,2 +1,2 @@
 # serverless-api-app-jinnliong
-Assess Lambda code via API gateway
+Assess Lambda code via API gateway using Terraform
